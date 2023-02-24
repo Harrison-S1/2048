@@ -15,6 +15,10 @@ docker pull harrisons1/2048
 ## Build yourself
 
 ```bash
+git clone https://github.com/Harrison-S1/2048.git && cd 2048
+```
+
+```bash
 docker build . -t "2048"
 ```
 ```bash
