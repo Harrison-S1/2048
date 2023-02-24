@@ -24,3 +24,9 @@ docker build . -t "2048"
 ```bash
 docker run -d -p 8080:80 2048
 ```
+
+## Access
+
+```bash
+http://127.0.0.1:8080
+```
